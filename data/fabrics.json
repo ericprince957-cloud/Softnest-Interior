@@ -1,1 +1,62 @@
-[object Object]
+[
+  {
+    "id": "velvet-drape",
+    "name": "Velvet Drape",
+    "description": "Plush, heavy-weight velvet with a rich sheen. Blocks light beautifully and drapes in soft, luxurious folds.",
+    "texture": "Plush velvet",
+    "pricePerYard": 8500,
+    "image": "/fabrics/velvet-drape.jpg",
+    "colorway": "#6B4226",
+    "featured": true
+  },
+  {
+    "id": "linen-sheer",
+    "name": "Linen Sheer",
+    "description": "Breathable, airy sheer linen. Filters daylight softly — perfect for living rooms and layered curtain looks.",
+    "texture": "Soft sheer linen",
+    "pricePerYard": 4500,
+    "image": "/fabrics/linen-sheer.jpg",
+    "colorway": "#F5EBDC",
+    "featured": false
+  },
+  {
+    "id": "ankara-print",
+    "name": "Ankara Print",
+    "description": "Vibrant wax-print Ankara with bold traditional patterns. Adds character to cushions, blinds and accent drapes.",
+    "texture": "Crisp cotton wax print",
+    "pricePerYard": 6200,
+    "image": "/fabrics/ankara-print.jpg",
+    "colorway": "#A3552B",
+    "featured": true
+  },
+  {
+    "id": "silk-taffeta",
+    "name": "Silk Taffeta",
+    "description": "Fine, lustrous taffeta with a crisp finish. Holds structure elegantly — ideal for formal swags and pelmet styling.",
+    "texture": "Lustrous taffeta",
+    "pricePerYard": 12500,
+    "image": "/fabrics/silk-taffeta.jpg",
+    "colorway": "#B98A3E",
+    "featured": false
+  },
+  {
+    "id": "blackout-champagne",
+    "name": "Blackout Champagne",
+    "description": "Premium 3-pass blackout fabric in a warm champagne tone. Total privacy, thermal insulation, hotel-grade quality.",
+    "texture": "Smooth blackout weave",
+    "pricePerYard": 9800,
+    "image": "/fabrics/blackout-champagne.jpg",
+    "colorway": "#8C6A4A",
+    "featured": false
+  },
+  {
+    "id": "brocade-gold",
+    "name": "Brocade Gold",
+    "description": "Woven jacquard brocade with subtle gold thread. Statement fabric for luxury drapes and upholstery accents.",
+    "texture": "Raised jacquard weave",
+    "pricePerYard": 14200,
+    "image": "/fabrics/brocade-gold.jpg",
+    "colorway": "#5A4632",
+    "featured": false
+  }
+]

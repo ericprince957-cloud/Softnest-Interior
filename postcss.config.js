@@ -1,1 +1,6 @@
-[object Object]
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
